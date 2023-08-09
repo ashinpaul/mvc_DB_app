@@ -43,6 +43,6 @@ public class MainActivity extends AppCompatActivity {
 //        String a[];
 //        try {
 //
-//        }catch (Exception e){}
+//        }
 //    }
 }
