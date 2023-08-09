@@ -42,7 +42,5 @@ public class MainActivity extends AppCompatActivity {
 //    public void onFind(View v){
 //        String a[];
 //        try {
-//
-//        }
 //    }
 }
